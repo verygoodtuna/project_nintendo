@@ -1,0 +1,33 @@
+주제 자유롭게 
+
+헤더 : 로고 메뉴
+메인 : 슬라이드 하나 
+background slider 
+섹션 하나 (이미지 세장)
+스크롤업 버튼
+푸터:sns 패밀리링크
+
+<div class="family_link2">
+                        <div class="fl2">
+                            <span>
+                                패밀리링크 <i class="xi-angle-up-min"></i>
+                            </span>
+                            <ul>
+                                <li>
+                                    <a href="http://naver.com" target="_blank">
+                                        네이버
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://daum.net" target="_blank">
+                                        다음
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://google.co.kr" target="_blank">
+                                        구글
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
